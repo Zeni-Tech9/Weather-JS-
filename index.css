@@ -4,7 +4,7 @@ body{
     margin: 0;
     background: #000;
     font-family: sans-serif;
-    background-image: url(./img/Weather.jpg);
+    background-image: url(./Weather.jpg);
     background-size: cover;
     background-position: center;
 }
